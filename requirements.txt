@@ -1,0 +1,9 @@
+torch
+nltk
+gradio
+unsloth
+transformers
+datasets
+trl
+scikit-learn
+wandb
