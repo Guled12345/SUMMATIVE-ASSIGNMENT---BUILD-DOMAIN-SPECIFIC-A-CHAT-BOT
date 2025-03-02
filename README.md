@@ -1,5 +1,7 @@
 🤖 EDUCATION CHATBOT SUMMATIVE
+
 📌 1- PROJECT OVERVIEW
+
 The Education Chatbot Summative is an AI-powered chatbot designed to assist students and educators. It leverages Natural Language Processing (NLP) and Machine Learning to answer academic queries, recommend study resources, and enhance the learning experience. This project demonstrates the use of Transformer models in the education sector.
 
 📂 2- DATASET
@@ -16,31 +18,37 @@ The chatbot is trained on an education-related dataset that includes:
 🔄 3- PROJECT WORKFLOW
 
 🛠️ 1. Data Preprocessing
+
 Cleaned and tokenized text data.
 Applied text normalization and stopword removal.
 Encoded text data using word embeddings.
 Split the dataset into training and validation sets.
 
 🤖 2. Model Training
+
 Used a Transformer-based NLP model (e.g., T5, BERT, GPT) for question-answering tasks.
 Applied fine-tuning on educational queries.
 Optimized hyperparameters for better performance.
 
 📈 3. Model Evaluation
+
 Assessed model accuracy using loss functions and evaluation metrics.
 Used validation datasets to measure performance.
 Fine-tuned the model based on evaluation results.
 
 💬 4. Chatbot Interaction
+
 Developed an interactive chatbot for real-time Q&A.
 Tested the chatbot’s ability to provide relevant academic responses.
 
 📊 4- VISUALIZATIONS
+
 Plotted word frequency distribution to analyze common terms in the dataset.
 Displayed dataset balance to ensure fair model training.
 Generated loss and accuracy graphs to track model improvement.
 
 🏆 5- RESULTS
+
 ✅ Achieved high accuracy in answering academic queries.
 ✅ Successfully generated context-aware responses.
 ✅ Improved model coherence through fine-tuning and training strategies.
@@ -49,9 +57,11 @@ Generated loss and accuracy graphs to track model improvement.
 ⚙️ 6- HOW TO USE
 
 🖥️ Clone the Repository
+
 bash
 Copy
 Edit
+
 git clone https://github.com/Guled12345/education-chatbot-summative.git  
 cd education-chatbot-summative  
 
@@ -81,17 +91,20 @@ Improve chatbot knowledge by adding new data in data/ folder.
 
 📁 GitHub Repository: https://github.com/Guled12345/education-chatbot-summative/edit/main/README.md
 
-📜 Report Document: Project Report
+📜 Report Document: https://docs.google.com/document/d/1cUW758zt3WjHBX_T2L_czl8oOETHPBARIoNnWwmf8rE/edit?tab=t.0
 
-🎥 Demo Video: Chatbot Demo
+🎥 Demo Video: https://www.loom.com/share/0979971cff47466785feb2fa5807c61e?sid=522774cf-3bfb-43cb-84a9-16461567b4f6
 
 🖥️ Backend Dashboard:https://wandb.ai/j-chemirmir-glasgow-caledonian-university/Education_chatbot
 
 🚀 8- FUTURE IMPROVEMENTS
 
 🔹 Enhance chatbot memory for better contextual responses.
+
 🔹 Improve model accuracy using more diverse datasets.
+
 🔹 Deploy the chatbot via a web or mobile application.
+
 🔹 Integrate real-time feedback to improve chatbot performance.
 
 📜 9- LICENSE
