@@ -6,11 +6,9 @@ The Education Chatbot Summative is an AI-powered chatbot designed to assist stud
 📂 2- DATASET
 The chatbot is trained on an education-related dataset that includes:
 
-📖 Textbooks & Lecture Notes: Extracted knowledge from academic sources.
-
-📚 FAQs & Study Materials: Frequently asked student questions and their answers.
-
-📜 Wikipedia & Open Educational Resources: General knowledge and explanations.
+📖 Textbooks & Lecture Notes - Extracted knowledge from academic sources.
+📚 FAQs & Study Materials - Frequently asked student questions and their answers.
+📜 Wikipedia & Open Educational Resources - General knowledge and explanations.
 
 👉 To train the chatbot on a new dataset, place it in the data/ folder and modify preprocessing scripts in src/.
 
@@ -87,14 +85,15 @@ Ask academic-related questions (e.g., "Explain Newton’s Laws").
 
 The chatbot provides context-aware answers and study materials.
 
-Improve chatbot knowledge by adding new data in data/ folder.
+Improve chatbot knowledge by adding new data in the data/ folder.
 
 🔗 7- IMPORTANT LINKS
 📂 Dataset: Educational QA Dataset
-📓 Notebook: GitHub Notebook📁 
-GitHub Repository: Education Chatbot 
-REPO📜 Report Document: Project Report
+📓 Notebook: Google Colab
+📁 GitHub Repository: Education Chatbot REPO
+📜 Report Document: Project Report
 🎥 Demo Video: Chatbot Demo
+🔧 Backend: WandB Backend
 
 🚀 8- FUTURE IMPROVEMENTS
 
@@ -106,15 +105,11 @@ Deploy the chatbot via a web or mobile application.
 
 Integrate real-time feedback to improve chatbot performance.
 
-📜 9- LICENSE
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+📜 9- LICENSEThis project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
-👨‍💻 10- AUTHOR
-Developed by: © 2025 Guled Hassan Warsame
-📍 GitHub: Guled12345
-📧 Email: g.warsameh@alustudent.com
-📢 LinkedIn: Guled Warsameh
+👨‍💻 10- AUTHORDeveloped by: © 2025 Guled Hassan Warsame📍 GitHub: Guled12345📧 Email: g.warsameh@alustudent.com📢 LinkedIn: Guled Warsameh
 
 💡 For any questions or collaborations, feel free to reach out!
 
 📚💡 Enhancing learning through AI-powered conversations! 🚀
+
