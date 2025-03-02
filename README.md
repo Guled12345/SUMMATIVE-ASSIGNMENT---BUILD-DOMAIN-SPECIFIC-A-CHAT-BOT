@@ -61,10 +61,15 @@ The chatbot provides context-aware answers and study materials.
 Improve chatbot knowledge by adding new data in data/ folder.
 🔗 7- IMPORTANT LINKS
 📂 Dataset: Educational QA Dataset
+
 📓 Notebook: https://colab.research.google.com/drive/11iDkV2vv8Cb_niHOYXwsHJ3xEwKMd_1O#scrollTo=6pGkKcQEe6gF&uniqifier=1
+
 📁 GitHub Repository: https://github.com/Guled12345/education-chatbot-summative/edit/main/README.md
+
 📜 Report Document: Project Report
+
 🎥 Demo Video: Chatbot Demo
+
 🖥️ Backend Dashboard:https://wandb.ai/j-chemirmir-glasgow-caledonian-university/Education_chatbot
 
 🚀 8- FUTURE IMPROVEMENTS
