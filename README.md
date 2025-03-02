@@ -90,7 +90,11 @@ The chatbot provides context-aware answers and study materials.
 Improve chatbot knowledge by adding new data in data/ folder.
 
 🔗 7- IMPORTANT LINKS
-📂 Dataset: Educational QA Dataset📓 Notebook: GitHub Notebook📁 GitHub Repository: Education Chatbot REPO📜 Report Document: Project Report🎥 Demo Video: Chatbot Demo
+📂 Dataset: Educational QA Dataset
+📓 Notebook: GitHub Notebook📁 
+GitHub Repository: Education Chatbot 
+REPO📜 Report Document: Project Report
+🎥 Demo Video: Chatbot Demo
 
 🚀 8- FUTURE IMPROVEMENTS
 
@@ -106,7 +110,10 @@ Integrate real-time feedback to improve chatbot performance.
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
 👨‍💻 10- AUTHOR
-Developed by: © 2025 Guled Hassan Warsame📍 GitHub: Guled12345📧 Email: g.warsameh@alustudent.com📢 LinkedIn: Guled Warsameh
+Developed by: © 2025 Guled Hassan Warsame
+📍 GitHub: Guled12345
+📧 Email: g.warsameh@alustudent.com
+📢 LinkedIn: Guled Warsameh
 
 💡 For any questions or collaborations, feel free to reach out!
 
